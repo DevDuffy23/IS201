@@ -1,0 +1,40 @@
+/*DEVON DUFFY. LAST EDIT APRIL 13*/
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+
+}
+
+body{
+    background-color: white
+}
+
+footer{
+    background-color: rgba(182, 175, 127, 0.2);
+}
+
+#ESPN{
+    background-color: rgb(214, 246, 255);
+    align-items: center;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Resume{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Heading{
+    color: rgb(127, 200, 212);
+}
+
+#BYU{
+    background-color: #7FC8D4;
+}
+
